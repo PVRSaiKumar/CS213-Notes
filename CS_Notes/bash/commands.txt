@@ -1,0 +1,10 @@
+ctrl + l                    clears the screen
+clear
+mkdir name_of_directory
+touch name_of_file.txt
+cat name_of_file.txt
+cd                          the top most directory
+cd -                        the last opened directory
+cd ~
+cd ..
+mv 

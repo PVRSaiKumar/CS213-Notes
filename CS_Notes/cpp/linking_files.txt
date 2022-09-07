@@ -1,0 +1,5 @@
+terminal commands:
+    g++ -c file1.cpp
+    g++ -c file2.cpp
+    g++ file1.o file2.o
+    ./a.out
